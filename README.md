@@ -1,5 +1,4 @@
-NAME:R ABDULLAH
-REG NO:212223230004
+
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
